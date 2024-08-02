@@ -1,2 +1,2 @@
 # Website
-A personal website to showcase some of my software work.
+A personal website to showcase some personal software projects.
